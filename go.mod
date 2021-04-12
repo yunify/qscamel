@@ -5,7 +5,7 @@ go 1.14
 require (
 	cloud.google.com/go/storage v1.12.0
 	github.com/Xuanwo/storage v1.0.1-0.20200428182019-4ae37d1c83db
-	github.com/aliyun/aliyun-oss-go-sdk v2.1.5+incompatible
+	github.com/aliyun/aliyun-oss-go-sdk v2.1.8+incompatible
 	github.com/aws/aws-sdk-go v1.36.29
 	github.com/cenkalti/backoff v1.1.0
 	github.com/colinmarc/hdfs/v2 v2.1.1
